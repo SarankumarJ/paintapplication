@@ -207,7 +207,7 @@ function change_color(element){
 
 ## OUTPUT:
 
-![gitlogo](./Screenshot(58).png)
+![gitlogo](./logo.png)
 
 ## Result:
 
